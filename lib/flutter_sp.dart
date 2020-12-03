@@ -10,7 +10,7 @@ class FlutterSp {
     return _channel.invokeMethod('get_uid');
   }
 
-  static Future<String> clearUid() async {
+  static Future<void> clearUid() async {
     return _channel.invokeMethod('set_uid');
   }
 }
