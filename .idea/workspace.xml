@@ -3,14 +3,26 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="NONE" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="177ca8fa-ad40-457d-935a-5ce9ce22e6dc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/example/pubspec.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/flutter_sp.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/flutter_sp.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
-    </list>
+    <list default="true" id="177ca8fa-ad40-457d-935a-5ce9ce22e6dc" name="Default Changelist" comment="支持空安全" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,7 +57,37 @@
       <option name="presentableId" value="Default" />
       <updated>1606888757317</updated>
     </task>
+    <task id="LOCAL-00001" summary="支持空安全">
+      <created>1618971064654</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1618971064654</updated>
+    </task>
+    <task id="LOCAL-00002" summary="支持空安全">
+      <created>1618971087833</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1618971087833</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="支持空安全" />
+    <option name="LAST_COMMIT_MESSAGE" value="支持空安全" />
   </component>
   <component name="WindowStateProjectService">
     <state width="1398" height="215" key="GridCell.Tab.0.bottom" timestamp="1618970103911">
@@ -64,5 +106,17 @@
       <screen x="-272" y="-1057" width="1920" height="1057" />
     </state>
     <state width="1398" height="215" key="GridCell.Tab.0.right/0.23.1440.833/-272.-1057.1920.1057@-272.-1057.1920.1057" timestamp="1618970103911" />
+    <state x="348" y="-786" key="MultipleFileMergeDialog" timestamp="1618971105215">
+      <screen x="-272" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="348" y="-786" key="MultipleFileMergeDialog/0.23.1440.833/-272.-1057.1920.1057@-272.-1057.1920.1057" timestamp="1618971105215" />
+    <state x="312" y="-815" key="Vcs.Push.Dialog.v2" timestamp="1618971254235">
+      <screen x="-272" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="312" y="-815" key="Vcs.Push.Dialog.v2/0.23.1440.833/-272.-1057.1920.1057@-272.-1057.1920.1057" timestamp="1618971254235" />
+    <state x="381" y="-759" key="git4idea.merge.GitPullDialog" timestamp="1618971095533">
+      <screen x="-272" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="381" y="-759" key="git4idea.merge.GitPullDialog/0.23.1440.833/-272.-1057.1920.1057@-272.-1057.1920.1057" timestamp="1618971095533" />
   </component>
 </project>
